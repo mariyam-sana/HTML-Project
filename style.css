@@ -1,0 +1,166 @@
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.newslogo{
+    height: 120px;
+    padding-left: center;
+}
+
+
+.btn{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 7px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.economy{
+    font-size: smaller;
+    margin-top: 30px;
+}
+.hours{
+    color: rgb(41, 173, 151);
+}
+.billion{
+    margin-top: -25px;
+}
+.agreement{
+    margin-top: -25px;
+    color: gray;
+}
+.imf{
+    position: absolute;
+    top: 430px;
+    right: 1050px;
+    height: 100px;
+    width: 140px;
+}
+.muharam{
+    position: absolute;
+    top: 660px;
+    right: 1050px;
+    height: 100px;
+    width: 140px;
+}
+
+.trump{
+    position: absolute;
+    top: 900px;
+    right: 1050px;
+    height: 100px;
+    width: 140px;
+}
+.jail{
+    position: absolute;
+    top: 1130px;
+    right: 1050px;
+    height: 100px;
+    width: 140px;
+}
+.missing{
+    position: absolute;
+    top: 1330px;
+    right: 1050px;
+    height: 100px;
+    width: 140px;
+}
+.miss{
+    position: absolute;
+    top: 1530px;
+    right: 1050px;
+    height: 100px;
+    width: 140px;
+}
+.business{
+    width: 300px;
+}
+
+.imran{
+    width: 630px;
+    height: 420px;
+    border-radius: 5px;
+}
+
+.case{
+    background-color: rgb(189, 223, 224);
+    font-weight: 530;
+    font-size: 30px;
+    line-height: normal;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    width: 620px;
+    margin-top: 0px;
+}
+
+.btn-two{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 100px;
+    /* position: absolute;
+    top: 750px; */
+    padding: 5px;
+    /* right: 800px; */
+}
+.box{
+    height: 850px;
+    width: 550px;
+    /* top: 780px; */
+    /* background-color: rgb(240, 204, 212); */
+    border: 2px solid black;
+    /* position: absolute; */
+}
+.box1{
+    display: flex;
+}
+.box2{
+    display: flex;
+}
+.box3{
+    display: flex;
+}
+.traffic{
+    height: 150px;
+    width: 230px;
+    padding: 20px;
+    top: 10px;
+    margin-top: 10px;
+}
+.para{
+    width: 230px;
+    padding: 20px;
+    margin-top: -32px;
+} 
+
+.top-right{
+    height: 830px;
+    width: 330px;
+    border: 2px solid rgb(212, 56, 50);
+
+}
+.popular{
+    background-color: rgb(174, 195, 233);
+    height: 40px;
+    width: 330px;
+    margin-top: -0px;
+    font-size: 30px;
+    word-spacing: 10px;
+    text-align: center;
+    font-weight: lighter; 
+}
+ol{
+    font-size: 21px;
+    color: rgb(80, 75, 75);
+    font-weight: 200;
+}
+.final{
+    display: flex;
+    justify-content: space-between;
+    
+}
